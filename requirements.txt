@@ -1,0 +1,17 @@
+dask==2022.7.0
+torch==2.0.1
+numpy==1.25.2
+networkx==2.8.4
+tqdm==4.67.1
+scipy==1.11.2
+pandas==1.4.2
+sklearn==1.5.2
+pygam==0.9.1
+igraph==0.10.2
+matplotlib==3.5.2
+cdt==0.6.0
+rpy2==3.4.2
+interpret-core[required,ebm]==0.6.6
+seaborn==0.11.2
+statsmodels==0.13.2
+avici
