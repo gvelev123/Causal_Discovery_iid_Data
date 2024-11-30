@@ -13,10 +13,10 @@ The linear combinatorial approach R2-SortnRegress and the pre-trained nonlinear 
 ## **Reproducibility**
 1. Install requirements. ```pip install -r requirements.txt```
 
-2. Simulation of data, application of the 14 causal discovery techniques included in our study and evaluation of inferred graphs: You can use the notebook ```Causal_Graph_Inference_and_Evaluation.ipynb``` in the folder  ```./Src/```. The notebook shows how to define the values for the experimental factors of the synthetic data generating process, and how to run and evaluate the models on a demo-version of the simulation (smaller proportion of the simulated datasets).
+2. Simulation of data, application of the 14 causal discovery techniques included in our study and evaluation of inferred graphs: you can use the notebook ```Causal_Graph_Inference_and_Evaluation.ipynb``` in the folder  ```./Src/```. The notebook shows how to define the values for the experimental factors of the synthetic data generating process, and how to run and evaluate the models on a demo-version of the simulation (smaller proportion of the simulated datasets).
 
 3. Generation of visualizations included in the results section of the study:
-You can use the notebook ```Large_Scale_Sensitivity_Analysis.ipynb``` in the folder  ```Src```. The class for generating the visualizations is in the folder  ```./Results/Results_Visualization/```.
+you can use the notebook ```Large_Scale_Sensitivity_Analysis.ipynb``` in the folder  ```./Src/```. The class for generating the visualizations is in the folder  ```./Results/Results_Visualization/```.
 
 
 ## **Acknowledgements**
