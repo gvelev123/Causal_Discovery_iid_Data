@@ -21,7 +21,7 @@ you can use the notebook ```Large_Scale_Sensitivity_Analysis.ipynb``` in the fol
 
 ## **Acknowledgements**
 
-We appreciate the following github repositories very much for the valuable code base and datasets:
+We appreciate the following github repositories very much for the valuable code base:
 
 gCastle: https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle
 
