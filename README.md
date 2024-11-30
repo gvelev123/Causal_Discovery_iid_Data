@@ -1,4 +1,4 @@
-# How much do we really know about Structure Learning from Observational i.i.d. Data? Interpretable, multi-dimensional Evaluation Framework for Causal Disocvery
+# How much do we really know about Structure Learning from Observational i.i.d. Data? Interpretable, multi-dimensional Evaluation Framework for Causal Discovery
 
 * This is the official github repository for the paper benchmarking seven different families of causal discovery techniques from the continuous and combinatorial branch on nonlinear i.i.d. data simulated with increasing nonidedntifiability. [[paper](https://arxiv.org/abs/2409.19377)]
 
