@@ -48,7 +48,7 @@ If you find this repo useful in your research, please consider citing our paper 
 
 ```
 @article{VelevLessmann-2024-CausalDiscovery,
-  title     = {How much do we really know about Structure Learning from Observational i.i.d. Data? Interpretable, multi-dimensional EValuation Framework for Causal Disocvery},
+  title     = {Interpretable, multi-dimensional Evaluation Framework for Causal Discovery from observational i.i.d. Data},
   author    = Velev, Georg and
               Lessmann, Stefan},
   journal = {arxiv preprint arXiv:2409.19377},
