@@ -8,7 +8,7 @@ In addition to our contribution in benchmarking context, we design a multi-dimen
 
 
 ## **Key Results**
-The linear combinatorial approach R2-SortnRegress and the pre-trained nonlinear continuous optimization method AVICI achieve the best results in terms of the six-dimensional performance indicator DOS. Figure 8 from the results section of our study provides an overview of the performance of structure learning models in terms of DOS: <br>
+The linear combinatorial approach R2-SortnRegress and the pre-trained nonlinear continuous optimization method AVICI achieve the best results in terms of the six-dimensional performance indicator DOS. The figure below from the results section of our study provides an overview of the performance of structure learning models in terms of DOS: <br>
 <img src="https://github.com/gvelev123/Causal_Discovery_iid_Data/blob/main/Results_Visualization/Images/Results_Summary.PNG" alt="Alt-Text" width="1200" height="1000"><br>
 Additionaly, the analysis of the EBM importance and interaction scores showed that the performance of the two best performing methods (R2-SortnRegress and AVICI) is more robust to variations in the experimental experimental factors included in our simulation framework than the performance of the remaining models.
 
