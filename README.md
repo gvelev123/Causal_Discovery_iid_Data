@@ -47,12 +47,13 @@ If you have any questions or concerns, please contact us: velegeor@hu-berlin.de,
 If you find this repo useful in your research, please consider citing our paper as follows:
 
 ```
-@article{VelevLessmann-2024-CausalDiscovery,
+@article{VelevLessmann-2026-CausalDiscovery,
   title     = {Interpretable, multi-dimensional Evaluation Framework for Causal Discovery from observational i.i.d. Data},
   author    = Velev, Georg and
               Lessmann, Stefan},
-  journal = {arxiv preprint arXiv:2409.19377},
-  year      = {2024}
+  journal   = {Information Sciences},
+  volume    = {723},
+  year      = {2026}
 }
 ```
 
